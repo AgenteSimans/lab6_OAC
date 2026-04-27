@@ -1,0 +1,82 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/LabOC/p3/Nova pasta/lab6_OAC/Editado/modelsim
+vsc_alu
+Z1 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z2 !s110 1777223809
+!i10b 1
+!s100 MSz8gZeRd;@K`0S3Ck59`0
+IP^IlSoFTUK;o9PR82J`J62
+S1
+R0
+Z3 w1777217356
+8../sc_alu.sv
+F../sc_alu.sv
+!i122 0
+L0 18 26
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2024.3;79
+r1
+!s85 0
+31
+Z6 !s108 1777223808.000000
+!s107 \\|../sc_control.sv|../sc_alu_ctrl.sv|../sc_alu.sv|
+Z7 !s90 -sv|../sc_alu.sv|../sc_alu_ctrl.sv|../sc_control.sv|\|
+!i113 0
+Z8 o-sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z9 tCvgOpt 0
+vsc_alu_ctrl
+R1
+R2
+!i10b 1
+!s100 fO7@YDd<XSJXz5GN:XR>f3
+IATUh:zL9oZ=<C[D>EQ:Wf3
+S1
+R0
+R3
+8../sc_alu_ctrl.sv
+F../sc_alu_ctrl.sv
+!i122 0
+L0 32 29
+R4
+R5
+r1
+!s85 0
+31
+R6
+Z10 !s107 \\|../sc_control.sv|../sc_alu_ctrl.sv|../sc_alu.sv|
+R7
+!i113 0
+R8
+R9
+vsc_control
+R1
+R2
+!i10b 1
+!s100 @D?Z2KC=_4N0SLT@g6emR3
+Io:UfU@_j3=BTo?Eo^>>]Q2
+S1
+R0
+R3
+8../sc_control.sv
+F../sc_control.sv
+!i122 0
+L0 34 73
+R4
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 0
+R8
+R9

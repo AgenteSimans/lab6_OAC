@@ -508,7 +508,7 @@ def translate_instruction(instruction):
 
 
 def main():
-	instructions = read_file("instructions.txt")
+	instructions = read_file(r"D:\LabOC\p3\Nova pasta\lab6_OAC\Editado\assembler\instructions.txt")
 	create_file("instruction.mif")
 
 	for i, instruction in enumerate(instructions):

@@ -1,0 +1,334 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/LabOC/p3/lab5_oac/modelsim
+vpll_10mhz
+Z0 !s110 1777251539
+!i10b 1
+!s100 VdaY7@nX3527oNRIT22N70
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IoCg5STgoFdlTb=DbT1nc=1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/LabOC/p3/Nova pasta/lab6_OAC/Editado
+Z4 w1777217356
+8D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/pll_10mhz.v
+FD:/LabOC/p3/Nova pasta/lab6_OAC/Editado/pll_10mhz.v
+!i122 39
+L0 14 104
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1777251539.000000
+!s107 D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/pll_10mhz.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/pll_10mhz.v|
+!i113 1
+o-work work
+Z7 tCvgOpt 0
+vsc_alu
+Z8 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+R0
+!i10b 1
+!s100 Uk803E`ZU>AHHI7@Eeg>51
+R1
+I;MA]EcQ2>@kYeDH8NGfYg2
+R2
+S1
+R3
+R4
+8D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_alu.sv
+FD:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_alu.sv
+!i122 40
+L0 18 26
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_alu.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_alu.sv|
+!i113 1
+Z9 o-work work -sv
+R7
+vsc_alu_ctrl
+R8
+Z10 !s110 1777251540
+!i10b 1
+!s100 PaQWR?iz`JU_K]CU7cGGF1
+R1
+IkOz;SDD]JX=nj0ENOPP>Q1
+R2
+S1
+R3
+R4
+8D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_alu_ctrl.sv
+FD:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_alu_ctrl.sv
+!i122 41
+L0 32 29
+R5
+r1
+!s85 0
+31
+Z11 !s108 1777251540.000000
+!s107 D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_alu_ctrl.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_alu_ctrl.sv|
+!i113 1
+R9
+R7
+vsc_control
+R8
+R10
+!i10b 1
+!s100 NII<gSj3MN5W`mZY>`Ic01
+R1
+I_U^4PgV2W9CCB>5Hm[=i]3
+R2
+S1
+R3
+R4
+8D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_control.sv
+FD:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_control.sv
+!i122 42
+L0 34 73
+R5
+r1
+!s85 0
+31
+R11
+!s107 D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_control.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_control.sv|
+!i113 1
+R9
+R7
+vsc_cpu
+R8
+R10
+!i10b 1
+!s100 N9f54z=a?Ak^FaPneINBe2
+R1
+I<oNn:EEcfOFSj1a6S1M=i2
+R2
+S1
+R3
+R4
+8D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_cpu.sv
+FD:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_cpu.sv
+!i122 43
+L0 17 62
+R5
+r1
+!s85 0
+31
+R11
+!s107 D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_cpu.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_cpu.sv|
+!i113 1
+R9
+R7
+vsc_cpu_tb
+R8
+Z12 !s110 1777251541
+!i10b 1
+!s100 `NE87KNUoEc4?mojAKoJJ2
+R1
+IU]l?a]ImPkSF6c<^AB0e<1
+R2
+S1
+R3
+R4
+8D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_cpu_tb.sv
+FD:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_cpu_tb.sv
+!i122 44
+L0 40 248
+R5
+r1
+!s85 0
+31
+R11
+!s107 D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_cpu_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_cpu_tb.sv|
+!i113 1
+R9
+R7
+vsc_datapath
+R8
+R12
+!i10b 1
+!s100 J9:bFNROl5T>VZ@Hb<E=Z1
+R1
+IN5I2XZ6`95m@LH>8l5Ibo2
+R2
+S1
+R3
+R4
+8D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_datapath.sv
+FD:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_datapath.sv
+!i122 45
+L0 37 192
+R5
+r1
+!s85 0
+31
+Z13 !s108 1777251541.000000
+!s107 D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_datapath.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_datapath.sv|
+!i113 1
+R9
+R7
+vsc_dmem
+R8
+R12
+!i10b 1
+!s100 XDl6>RS^Q>L::YmmkZZbH0
+R1
+II95`lYdGT0IniJO3^<>jd1
+R2
+S1
+R3
+R4
+8D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_dmem.sv
+FD:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_dmem.sv
+!i122 46
+L0 25 27
+R5
+r1
+!s85 0
+31
+R13
+!s107 D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_dmem.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_dmem.sv|
+!i113 1
+R9
+R7
+vsc_imem
+R8
+R12
+!i10b 1
+!s100 cf6NmkBC3Pfcd<9h4QKlT0
+R1
+IX`fd0BZ<HBNW9Ljc=35^C1
+R2
+S1
+R3
+R4
+8D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_imem.sv
+FD:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_imem.sv
+!i122 47
+L0 28 21
+R5
+r1
+!s85 0
+31
+R13
+!s107 D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_imem.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_imem.sv|
+!i113 1
+R9
+R7
+vsc_mmio
+R8
+Z14 !s110 1777251542
+!i10b 1
+!s100 99V_Woi?bcSE3@`DjT=840
+R1
+I0l2jh>NPkQM2CoXzEkTNS3
+R2
+S1
+R3
+R4
+8D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_mmio.sv
+FD:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_mmio.sv
+!i122 48
+L0 20 49
+R5
+r1
+!s85 0
+31
+R13
+!s107 D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_mmio.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_mmio.sv|
+!i113 1
+R9
+R7
+vsc_regfile
+R8
+R14
+!i10b 1
+!s100 J>:ci;E4b27QelOzBK8P^3
+R1
+IDok8_<]R@n6Q8=L??e:i71
+R2
+S1
+R3
+R4
+8D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_regfile.sv
+FD:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_regfile.sv
+!i122 49
+L0 15 41
+R5
+r1
+!s85 0
+31
+Z15 !s108 1777251542.000000
+!s107 D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_regfile.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_regfile.sv|
+!i113 1
+R9
+R7
+vsc_sign_ext
+R8
+R14
+!i10b 1
+!s100 QCJ@z=8;ZkeI2^SCzSbA_1
+R1
+I1GDg@Qd0e6EQOH@T32F;:3
+R2
+S1
+R3
+R4
+8D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_sign_ext.sv
+FD:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_sign_ext.sv
+!i122 50
+L0 30 27
+R5
+r1
+!s85 0
+31
+R15
+!s107 D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_sign_ext.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_sign_ext.sv|
+!i113 1
+R9
+R7
+vsc_top
+R8
+!s110 1777251543
+!i10b 1
+!s100 >`eP8;9@Al?Wo[Y=]_AYQ0
+R1
+I@1M;3BlC]R4lCCaWoa0>B1
+R2
+S1
+R3
+R4
+8D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_top.sv
+FD:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_top.sv
+!i122 51
+L0 38 55
+R5
+r1
+!s85 0
+31
+R15
+!s107 D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_top.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/LabOC/p3/Nova pasta/lab6_OAC/Editado/sc_top.sv|
+!i113 1
+R9
+R7
